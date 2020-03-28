@@ -29,6 +29,9 @@
 
 [実行環境 (heroku)](https://api-date-suggester-dev.herokuapp.com/)
 
+##### Server構成
+![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app.jpg)
+
 ####  mercariのサービスを模倣したAPIサーバー
 [GitHub](https://github.com/necocoa/rails-make-api-for-mercari)
 
