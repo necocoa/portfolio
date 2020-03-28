@@ -7,9 +7,9 @@
 ### 利用した技術
 * RDBMS (PostgreSQL, MySQL)
 * RSpec (Railsテストコード)
-* Docker (compose)
+* Docker
 * CircleCI
-* AWS (EC2, RDS, Lambda, VPC)
+* AWS (EC2, RDS, Lambda, EB, ECR)
 
 ### GitHub
 [GitHub](https://github.com/necocoa)
