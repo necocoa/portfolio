@@ -15,8 +15,6 @@
 [GitHub](https://github.com/necocoa)
 
 ### AtCoder
-茶色レベル
-
 [AtCoder コンテスト成績表](https://atcoder.jp/users/necocoa/history)
 
 
