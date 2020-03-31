@@ -26,7 +26,7 @@
 
 [GitHub](https://github.com/quelcode-0-teamA/date-suggester-rails)
 
-[API ガイド](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
+[APIドキュメント](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
 
 [実行環境 (AWS Elastic-Beanstalk)](http://datesuggestersta-env.eba-tjsexdfx.ap-northeast-1.elasticbeanstalk.com/)
 
