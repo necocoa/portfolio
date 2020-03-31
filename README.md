@@ -20,15 +20,23 @@
 
 ## 制作物
 ### Ruby on Rails
-#### (製作途中)10秒でデートプランを提案してくれるアプリ
+#### (製作途中)5秒でデートプランを提案してくれるアプリ
+フロント: Vue.js
+アプリ: Swift
+バックエンド: Ruby on Rails
+
 [GitHub](https://github.com/quelcode-0-teamA/date-suggester-rails)
 
 [API ガイド](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
 
-[実行環境 (heroku)](https://api-date-suggester-dev.herokuapp.com/)
+[実行環境 (AWS Elastic-Beanstalk)](http://datesuggestersta-env.eba-tjsexdfx.ap-northeast-1.elasticbeanstalk.com/)
+※SSL化と独自ドメインは近日中に実装します。
 
 ##### Server構成
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app.jpg)
+
+CircleCIからECRにビルド&プッシュ
+Elastic-Beanstalkではそのイメージをプルする形のデプロイフローになっています。
 
 ####  mercariのサービスを模倣したAPIサーバー
 [GitHub](https://github.com/necocoa/rails-make-api-for-mercari)
@@ -44,32 +52,10 @@
 
 [実行環境 (heroku)](https://api-userpost-yn26as.herokuapp.com/)
 
-
-### Golang
-### Go test code
-[GitHub](https://github.com/necocoa/go-rest-api-with-mux)
-
-
 ### Python
 #### AtCoderのコンテスト情報を投稿するSlackBOT
 AWS Lambda利用
 [GitHub](https://github.com/necocoa/python-lambda-slack-bot)
-
-#### Atcoder
-[GitHub](https://github.com/necocoa/atcoder)
-
-
-### JavaScript
-#### トピック投稿SlackBOT
-GAS利用（Google App Script）
-
-[GitHub](https://github.com/necocoa/gas-send-topic-to-slack)
-
-#### 席替えアプリ
-[GitHub](https://github.com/necocoa/js-change-seats)
-
-[実際のサイト](https://necocoa.github.io/js-change-seats/)
-
 
 ### HTML/CSS/Sass
 #### 珈琲店
@@ -82,4 +68,13 @@ GAS利用（Google App Script）
 
 [実際のサイト](https://necocoa.github.io/html-furniture-store/)
 
-#Programming/suggest
+### JavaScript
+#### トピック投稿SlackBOT
+GAS利用（Google App Script）
+
+[GitHub](https://github.com/necocoa/gas-send-topic-to-slack)
+
+#### 席替えアプリ
+[GitHub](https://github.com/necocoa/js-change-seats)
+
+[実際のサイト](https://necocoa.github.io/js-change-seats/)
