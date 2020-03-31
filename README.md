@@ -1,8 +1,7 @@
 # ポートフォリオ
 ## プロフィール
 ### 主な言語
-* Ruby (Rails)
-* Python
+* Ruby (Ruby on Rails)
 
 ### 利用した技術
 * RDBMS (PostgreSQL, MySQL)
