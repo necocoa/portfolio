@@ -32,6 +32,8 @@
 
 ※SSL化と独自ドメインは近日中に実装します。
 
+![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app-top.jpg)
+
 ##### Server構成
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app.jpg)
 
