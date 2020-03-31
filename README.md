@@ -21,22 +21,28 @@
 ## 制作物
 ### Ruby on Rails
 #### (製作途中)5秒でデートプランを提案してくれるアプリ
-フロント: Vue.js
-アプリ: Swift
-バックエンド: Ruby on Rails
+* フロント: Vue.js
+* アプリ: Swift
+* バックエンド: Ruby on Rails
 
 [GitHub](https://github.com/quelcode-0-teamA/date-suggester-rails)
 
 [API ガイド](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
 
 [実行環境 (AWS Elastic-Beanstalk)](http://datesuggestersta-env.eba-tjsexdfx.ap-northeast-1.elasticbeanstalk.com/)
+
 ※SSL化と独自ドメインは近日中に実装します。
 
 ##### Server構成
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app.jpg)
 
-CircleCIからECRにビルド&プッシュ
-Elastic-Beanstalkではそのイメージをプルする形のデプロイフローになっています。
+#### デプロイフロー
+1. GitHubにPush
+2. CircleCIにて、テスト(RSpec & Rubocop)
+3. CircleCIにて、ECRにDockerImageをBuild & Push
+4. S3にECRのimage名を保存(Dockerrun.aws.json)
+5. Elastic-Beanstalkのアプリバージョンを更新(S3に保存したDockerrun.aws.jsonを指定)
+6. Elastic-Beanstalkのバージョンアップデートを行い、ECRからImageをPullしデプロイ完了
 
 ####  mercariのサービスを模倣したAPIサーバー
 [GitHub](https://github.com/necocoa/rails-make-api-for-mercari)
