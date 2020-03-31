@@ -51,13 +51,6 @@
 
 [実行環境 (heroku)](https://rails-mercari-api-201372.herokuapp.com/)
 
-#### Twitterを模倣したAPIサーバー
-[GitHub](https://github.com/necocoa/rails-make-api-for-userpost)
-
-[API ガイド](https://github.com/necocoa/rails-make-api-for-userpost#api-userpost)
-
-[実行環境 (heroku)](https://api-userpost-yn26as.herokuapp.com/)
-
 ### Python
 #### AtCoderのコンテスト情報を投稿するSlackBOT
 AWS Lambda利用
