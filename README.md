@@ -9,6 +9,7 @@
 * Docker
 * CircleCI
 * AWS (EC2, RDS, Lambda, EB, ECR)
+* Vagrant
 
 ### GitHub
 [GitHub](https://github.com/necocoa)
@@ -26,6 +27,9 @@
 * フロント: Vue.js
 * アプリ: Swift
 * バックエンド: Ruby on Rails
+
+サービス設計からDB構成、インフラ構成、APIサーバーのコーディングまで一気通貫で担当しました。
+また、同時にPMとしてPJの進行管理も担当しました。
 
 [GitHub](https://github.com/quelcode-0-teamA/date-suggester-rails)
 
