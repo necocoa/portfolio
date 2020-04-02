@@ -53,6 +53,16 @@
 5. Elastic-Beanstalkのアプリバージョンを更新(S3に保存したDockerrun.aws.jsonを指定)
 6. Elastic-Beanstalkのバージョンアップデートを行い、ECRからImageをPullしデプロイ完了
 
+### プログラミング学習の流れ
+
+  <img src="https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/program-11.jpeg" width="600px" max-width="100%">
+  <img src="https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/program-12.jpeg" width="600px" max-width="100%">
+  <img src="https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/program-01.jpeg" width="600px" max-width="100%">
+  <img src="https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/program-02.jpeg" width="600px" max-width="100%">
+  <img src="https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/program-03.jpeg" width="600px" max-width="100%">
+  <img src="https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/program-04.jpeg" width="600px" max-width="100%">
+
+### その他の制作物
 ####  mercariのサービスを模倣したAPIサーバー
 [GitHub](https://github.com/necocoa/rails-make-api-for-mercari)
 
