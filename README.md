@@ -36,7 +36,7 @@
 
 [APIドキュメント](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
 
-[実行環境 (AWS Elastic-Beanstalk)](http://datesuggestersta-env.eba-tjsexdfx.ap-northeast-1.elasticbeanstalk.com/)
+[実行環境 (AWS Elastic-Beanstalk)](https://api.date-suggester.com/)
 
 ※SSL化と独自ドメインは近日中に実装します。
 
