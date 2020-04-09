@@ -24,8 +24,8 @@
 ## 制作物
 ### Ruby on Rails
 #### (製作途中)5秒でデートプランを提案してくれるアプリ
-* フロント: Vue.js
-* アプリ: Swift
+* フロントエンド: Vue.js
+* スマホアプリ: Swift
 * バックエンド: Ruby on Rails
 
 サービス設計からDB構成、インフラ構成、APIサーバーのコーディングまで一気通貫で担当しました。
@@ -38,12 +38,10 @@
 
 [実行環境 (AWS Elastic-Beanstalk)](https://api.date-suggester.com/)
 
-※SSL化と独自ドメインは近日中に実装します。
-
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app-top.jpg)
 
 ##### Server構成
-![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app.jpg)
+![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-network.jpg)
 
 #### デプロイフロー
 1. GitHubにPush
