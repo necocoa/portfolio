@@ -41,7 +41,7 @@
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app-top.jpg)
 
 ##### Server構成
-![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-network.jpg)
+![](https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/date-suggester-network.jpg)
 
 #### デプロイフロー
 1. GitHubにPush
