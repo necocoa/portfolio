@@ -8,7 +8,7 @@
 * RSpec (Railsテストコード)
 * Docker
 * CircleCI
-* AWS (EC2, RDS, Lambda, EB, ECR)
+* AWS (EC2, RDS, Lambda, EB, ECR, S3, VPC, ALB, Route53, ACM)
 * Vagrant
 
 ### GitHub
@@ -27,6 +27,10 @@
 * フロントエンド: Vue.js
 * スマホアプリ: Swift
 * バックエンド: Ruby on Rails
+
+使用技術
+Rails/PostgreSQL/Nginx/Puma/RSpec
+Docker/CirceCI/AWS(EB, EC2, RDS, ECR, S3, ALB, AutoScaling, Route53, ACM)
 
 サービス設計からDB構成、インフラ構成、APIサーバーのコーディングまで一気通貫で担当しました。
 
