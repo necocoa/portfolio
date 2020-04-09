@@ -44,7 +44,10 @@ Docker/CirceCI/AWS(EB, EC2, RDS, ECR, S3, ALB, AutoScaling, Route53, ACM)
 
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app-top.jpg)
 
-##### Server構成
+#### ER図
+![](https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/date-suggester-er.jpg)
+
+##### ネットワーク構成図
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/date-suggester-network.jpg)
 
 #### デプロイフロー
