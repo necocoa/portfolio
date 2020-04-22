@@ -18,7 +18,7 @@
 [Qiita](https://qiita.com/necocoa)
 
 ### AtCoder
-[AtCoder コンテスト成績表](https://atcoder.jp/users/necocoa/history)
+[AtCoder](https://atcoder.jp/users/necocoa)
 
 
 ## 制作物
