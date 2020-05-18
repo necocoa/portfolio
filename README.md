@@ -23,29 +23,34 @@
 
 ## 制作物
 ### Ruby on Rails
-#### (製作途中)5秒でデートプランを提案してくれるアプリ
+#### 5秒でデートプランを提案してくれるアプリ
+5月2日にiOS版をリリース！
+
+[WEB版](https://date-suggester.com/)
+
+[iOS版](https://apps.apple.com/jp/app/datesuggester/id1508988316)
+
 * フロントエンド: Vue.js
 * スマホアプリ: Swift
 * バックエンド: Ruby on Rails
 
 使用技術
 Rails/PostgreSQL/Nginx/Puma/RSpec
+
 Docker/CirceCI/AWS(EB, EC2, RDS, ECR, S3, ALB, AutoScaling, Route53, ACM)
 
-サービス設計からDB構成、インフラ構成、APIサーバーのコーディングまで一気通貫で担当しました。
+サービス設計からDB構成、インフラ構成、APIサーバーの開発まで一気通貫で担当しました。
 
 また、同時にPMとしてPJの進行管理も担当しました。
 
 [GitHub](https://github.com/quelcode-0-teamA/date-suggester-rails)
 
-[APIドキュメント](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
-
-[WEBサイト(開発途中)](https://date-suggester.com/)
-
 [APIサーバー (AWS Elastic-Beanstalk)](https://api.date-suggester.com/)
 
-#### サイトイメージ
-![](https://raw.githubusercontent.com/necocoa/img-stock/master/date-suggester-app-top.jpg)
+[APIドキュメント](https://github.com/quelcode-0-teamA/date-suggester-rails/wiki)
+
+#### アプリイメージ
+![](https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/date-suggester-app-ss.jpg)
 
 #### ER図
 ![](https://raw.githubusercontent.com/necocoa/img-stock/master/portfolio/date-suggester-er.jpg)
